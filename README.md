@@ -10,4 +10,4 @@ A simple php weather checker that uses the Yahoo weather API. Built on boostrap 
 Need a hand? I would love to help you out! Head over to my [site](http://flynntes.com/contact). You could also just open an issue or you could [tweet me](http://twitter.com/flynntes)... your choice.
 
 #License
-This code is released under the [MIT License](https://github.com/Flynntes/Sleeky/blob/master/LICENSE.md)
+This code is released under the [MIT License](https://github.com/Flynntes/weather/blob/master/LICENSE.md)
